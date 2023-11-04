@@ -19,27 +19,21 @@ After converting the dataframe's columns to the appropriate data types, the foll
 
 1. How many months exist on Mars?
 
-![Alt text](<Screenshot 2023-11-04 at 11.57.26 AM.png>)
-
 2. How many Martian (and not Earth) days worth of data exist in the scraped dataset?
 
 There are 1867 Martian days' worth of data.
-![Alt text](<Screenshot 2023-11-04 at 11.58.04 AM.png>)
 
 3. What are the coldest and the warmest months on Mars (at the location of Curiosity)?
 
 The third month has the coldest average temperature, while the eighth month has the warmest average temperature.
-![Alt text](image-1.png)
 
 4. Which months have the lowest and the highest atmospheric pressure on Mars?
 
 Atmospheric pressure is at its lowest, on average, in the sixth month and at its highest, on average, in the ninth month.
-![Alt text](image-2.png)
 
 5. About how many terrestrial (Earth) days exist in a Martian year?
 
 In the plot, a year on Mars appears to be around 675 days (calculating the distance from peak to peak). A Google search also confirms that a Martian year is equivalent to 678 Earth days.
-![Alt text](image-3.png)
 
 Lastly, the dataframe was exported to a CSV file found under mars_weather_data.csv.
 
